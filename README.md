@@ -7,6 +7,7 @@
 6. By tagging each record with timestamp, enable to age out data that fall out a configurable retention window
 7. Highly configurable by static settings to change program behavior 
 8. Plug-in design to extend custom statistic modules (NEW)
+9. Implemented using OOA/OOD design patterns (NEW)
 
 # Prerequisites
 - Wireshark 2.2+
