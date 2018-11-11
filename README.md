@@ -15,6 +15,7 @@
 - Use `pip install -r requirements.txt` to install external libraries of followings:
   - Pyshark
   - termcolor
+  - requests(use in gen_traffic.py for testing)
 
 # Usage
 - Run unit test cases for the Alerting logic & State transition logic `python exercise_test.py`
