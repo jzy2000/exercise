@@ -1,4 +1,4 @@
-# Key features
+# Highlights
 1. Based on tshark, it sniffs HTTP traffic on the host(can sniff any traffic)
 2. Adopt baseline learning at the beginning of the program to set average HTTP request rate
 3. Include various statistics : HTTP request rate, Top hits by Section, by Domain, by User-agent, by HTTP Method, by Status code, by Volume per Domain etc.
